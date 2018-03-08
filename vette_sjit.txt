@@ -1,6 +1,5 @@
 Magento 2
 Docker
-Nog meer vette sjit
 Material
 Angular
-Eigen shop
+Eigen shop maken
